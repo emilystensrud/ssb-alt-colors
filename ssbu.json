@@ -1,0 +1,738 @@
+{
+  "Bayonetta": [
+    "Black",
+    "Original",
+    "Yellow",
+    "Green",
+    "Red",
+    "Pink",
+    "White",
+    "Blure"
+  ],
+  "Bowser": [
+    "Default",
+    "Black",
+    "Yellow",
+    "Green",
+    "Grey",
+    "Orange",
+    "Red",
+    "Blue"
+  ],
+  "Bowser_Jr": [
+    "Junior",
+    "Larry",
+    "Roy",
+    "Wendy",
+    "Iggy",
+    "Morton",
+    "Lemmy",
+    "Ludwig"
+  ],
+  "Captain_Falcon": [
+    "Indigo",
+    "Black",
+    "Red",
+    "Green",
+    "Blue",
+    "White",
+    "Yellow",
+    "Cyan"
+  ],
+  "Chrom": [
+    "Blue",
+    "Red",
+    "Green",
+    "Yellow",
+    "Black",
+    "Purple",
+    "White",
+    "Cyan"
+  ],
+  "Cloud": [
+    "Purple",
+    "Advent",
+    "Blue",
+    "Advent_Blue",
+    "Red",
+    "Advent_Black",
+    "Brown",
+    "Advent_Purple"
+  ],
+  "Corrin": [
+    "Male_Default",
+    "Female_Default",
+    "Red",
+    "Orange",
+    "Blue",
+    "Pink",
+    "Green",
+    "Black"
+  ],
+  "Daisy": [
+    "Orange",
+    "Green",
+    "Pink",
+    "Blue",
+    "Red",
+    "Purple",
+    "White",
+    "Black"
+  ],
+  "Dark_Pit": [
+    "Black",
+    "Green",
+    "Brown",
+    "Yellow",
+    "Red",
+    "Blue",
+    "White",
+    "Purple"
+  ],
+  "Dark_Samus": [
+    "Blue",
+    "Green",
+    "Purple",
+    "Red",
+    "Yellow",
+    "Grey",
+    "Black",
+    "Pink"
+  ],
+  "Diddy_Kong": [
+    "Red",
+    "White",
+    "Pink",
+    "Purple",
+    "Green",
+    "Blue",
+    "Yellow",
+    "Cyan"
+  ],
+  "Donkey_Kong": [
+    "Brown",
+    "Black",
+    "Red",
+    "Blue",
+    "Green",
+    "White",
+    "Yellow",
+    "Pink"
+  ],
+  "Dr_Mario": [
+    "White",
+    "Red",
+    "Blue",
+    "Green",
+    "Black",
+    "Yellow",
+    "Purple",
+    "Pink"
+  ],
+  "Duck_Hunt": [
+    "Default",
+    "Black",
+    "Blue",
+    "Brown",
+    "White",
+    "Tan",
+    "Yellow",
+    "Red"
+  ],
+  "Falco": [
+    "Grey",
+    "Orange",
+    "Blue",
+    "Red",
+    "Green",
+    "Black",
+    "White",
+    "Pink"
+  ],
+  "Fox": [
+    "Default",
+    "Black",
+    "Red",
+    "Green",
+    "Orange",
+    "White",
+    "Yellow",
+    "Purple"
+  ],
+  "Ganondorf": [
+    "Default",
+    "Violet",
+    "Blue",
+    "Green",
+    "Purple",
+    "Brown",
+    "White",
+    "Grey"
+  ],
+  "Greninja": [
+    "Blue",
+    "Red",
+    "Pink",
+    "Black",
+    "Violet",
+    "Green",
+    "Grey",
+    "Purple"
+  ],
+  "Ice_Climbers": [
+    "Purple",
+    "Blue",
+    "Green",
+    "Indigo",
+    "Red",
+    "Brown",
+    "White",
+    "Orange"
+  ],
+  "Ike": [
+    "Default",
+    "Brown",
+    "Purple",
+    "Red",
+    "Yellow",
+    "Green",
+    "Blue",
+    "Black"
+  ],
+  "Incineroar": [
+    "Red",
+    "Green",
+    "Black",
+    "Blue",
+    "Orange",
+    "Purple",
+    "Grey",
+    "White"
+  ],
+  "Inkling": [
+    "Orange",
+    "Blue",
+    "Yellow",
+    "Green",
+    "Pink",
+    "Cyan",
+    "Purple",
+    "Indigo"
+  ],
+  "Isabelle": [
+    "Green",
+    "Yellow",
+    "Pink",
+    "Red",
+    "Purple",
+    "Teal",
+    "Grey",
+    "Blue"
+  ],
+  "Jigglypuff": [
+    "Default",
+    "Red",
+    "White",
+    "Blue",
+    "Green",
+    "Pink",
+    "Nurse",
+    "Glasses"
+  ],
+  "Joker": [
+    "Black",
+    "Purple",
+    "Yellow",
+    "Red",
+    "White",
+    "School",
+    "School_White"
+  ],
+  "Ken": [
+    "Red",
+    "Grey",
+    "Blue",
+    "White",
+    "Green",
+    "Yellow",
+    "Cyan",
+    "Black"
+  ],
+  "King_Dedede": [
+    "Red",
+    "Pink",
+    "Green",
+    "Purple",
+    "Cyan",
+    "Grey",
+    "Blue",
+    "Black"
+  ],
+  "King_K_Rool": [
+    "Green",
+    "Orange",
+    "Blue",
+    "Yellow",
+    "Pink",
+    "Black",
+    "Brown",
+    "White"
+  ],
+  "Kirby": [
+    "Pink",
+    "Yellow",
+    "Blue",
+    "Red",
+    "Green",
+    "White",
+    "Orange",
+    "Purple"
+  ],
+  "Link": [
+    "Blue",
+    "Green",
+    "Red",
+    "Grey",
+    "Indigo",
+    "Teal",
+    "White",
+    "Black"
+  ],
+  "Little_Mac": [
+    "Default",
+    "Yellow",
+    "White",
+    "Blue",
+    "Black",
+    "Pink",
+    "Wire",
+    "Green"
+  ],
+  "Lucario": [
+    "Blue",
+    "Purple",
+    "White",
+    "Grey",
+    "Teal",
+    "Navy",
+    "Green",
+    "Pink"
+  ],
+  "Lucas": [
+    "Yellow",
+    "Orange",
+    "Blue",
+    "Red",
+    "Grey",
+    "Cyan",
+    "Green",
+    "Purple"
+  ],
+  "Lucina": [
+    "Blue",
+    "Green",
+    "Black",
+    "White",
+    "Red",
+    "Yellow",
+    "Navy",
+    "Purple"
+  ],
+  "Luigi": [
+    "Green",
+    "Orange",
+    "Pink",
+    "Cyan",
+    "White",
+    "Purple",
+    "Blue",
+    "Yellow"
+  ],
+  "Mario": [
+    "Red",
+    "Striped",
+    "Blue",
+    "Black",
+    "Green",
+    "Purple",
+    "Yellow",
+    "White"
+  ],
+  "Marth": [
+    "Navy",
+    "Red",
+    "Green",
+    "Black",
+    "White",
+    "Blue",
+    "Yellow",
+    "Purple"
+  ],
+  "Mega_Man": [
+    "Blue",
+    "Red",
+    "Green",
+    "Brown",
+    "Cyan",
+    "Chartreuse",
+    "Orange",
+    "Grey"
+  ],
+  "Meta_Knight": [
+    "Blue",
+    "White",
+    "Red",
+    "Green",
+    "Navy",
+    "Pink",
+    "Purple",
+    "Grey"
+  ],
+  "Mewtwo": [
+    "Default",
+    "Orange",
+    "Blue",
+    "Brown",
+    "Pink",
+    "Yellow",
+    "Cyan",
+    "Purple"
+  ],
+  "Mii_Brawler": [
+    "N/A"
+  ],
+  "Mii_Gunner": [
+    "N/A"
+  ],
+  "Mii_Swordfighter": [
+    "N/A"
+  ],
+  "Mr_Game_And_Watch": [
+    "Black",
+    "Red",
+    "Yellow",
+    "Blue",
+    "Teal",
+    "Cyan",
+    "Green",
+    "White"
+  ],
+  "Ness": [
+    "Red",
+    "White",
+    "Yellow",
+    "Green",
+    "Blue",
+    "Black",
+    "Cyan",
+    "Purple"
+  ],
+  "Olimar": [
+    "Tan",
+    "Red",
+    "Green",
+    "Blue",
+    "Alph",
+    "Alph_Green",
+    "Alph_Pink",
+    "Alph_Red"
+  ],
+  "Pac-Man": [
+    "Default",
+    "Blue",
+    "Yellow",
+    "Black",
+    "Purple",
+    "Red",
+    "Plaid"
+  ],
+  "Palutena": [
+    "White",
+    "Pink",
+    "Cyan",
+    "Green",
+    "Blue",
+    "Red",
+    "Black",
+    "Purple"
+  ],
+  "Peach": [
+    "Pink",
+    "Yellow",
+    "Red",
+    "Blue",
+    "Green",
+    "White",
+    "Fire",
+    "Black"
+  ],
+  "Pichu": [
+    "Yellow",
+    "Cyan",
+    "Red",
+    "Grey",
+    "Blue",
+    "Spiky",
+    "White",
+    "Band"
+  ],
+  "Pikachu": [
+    "Default",
+    "Red",
+    "Green",
+    "Yellow",
+    "Blue",
+    "Glasses",
+    "Female",
+    "Libre"
+  ],
+  "Piranha_Plant": [
+    "Red",
+    "Green",
+    "Yellow",
+    "Pink",
+    "Black",
+    "Purple",
+    "Blue"
+  ],
+  "Pit": [
+    "Default",
+    "Yellow",
+    "Red",
+    "Green",
+    "Blue",
+    "Black",
+    "White",
+    "Pink"
+  ],
+  "Pokemon_Trainer": [
+    "Default",
+    "Red",
+    "Green",
+    "Pink",
+    "Yellow",
+    "White",
+    "Blue",
+    "Purple"
+  ],
+  "Richter": [
+    "Navy",
+    "Red",
+    "Purple",
+    "Green",
+    "Yellow",
+    "Blue",
+    "Black",
+    "White"
+  ],
+  "Ridley": [
+    "Default",
+    "Meta",
+    "Red",
+    "Blue",
+    "Green",
+    "Purple",
+    "Yellow",
+    "Grey"
+  ],
+  "R.O.B": [
+    "Tan",
+    "Grey",
+    "Yellow",
+    "Purple",
+    "Blue",
+    "Green",
+    "Cyan",
+    "Red"
+  ],
+  "Robin": [
+    "Male",
+    "Female",
+    "Green",
+    "Red",
+    "Blue",
+    "Yellow",
+    "White",
+    "Pink"
+  ],
+  "Rosalina": [
+    "Cyan",
+    "Pink",
+    "Yellow",
+    "Green",
+    "Red",
+    "Purple",
+    "Black",
+    "White"
+  ],
+  "Roy": [
+    "Blue",
+    "Red",
+    "Green",
+    "Violet",
+    "Cyan",
+    "Purple",
+    "Pink",
+    "Yellow"
+  ],
+  "Ryu": [
+    "White",
+    "Grey",
+    "Cyan",
+    "Black",
+    "Orange",
+    "Blue",
+    "Green",
+    "Purple"
+  ],
+  "Samus": [
+    "Orange",
+    "Blue",
+    "Pink",
+    "Brown",
+    "Purple",
+    "Green",
+    "White",
+    "Black"
+  ],
+  "Sheik": [
+    "Blue",
+    "Red",
+    "Indigo",
+    "Purple",
+    "Green",
+    "Black",
+    "Yellow",
+    "White"
+  ],
+  "Shulk": [
+    "Red",
+    "White",
+    "Black",
+    "Orange",
+    "Blue",
+    "Lavender",
+    "Yellow",
+    "Trunks"
+  ],
+  "Simon": [
+    "Brown",
+    "Red",
+    "Yellow",
+    "Black",
+    "Blue",
+    "Purple",
+    "Orange",
+    "Indigo"
+  ],
+  "Snake": [
+    "Grey",
+    "Black",
+    "Red",
+    "Blue",
+    "Green",
+    "White",
+    "Chartreuse",
+    "Brown"
+  ],
+  "Sonic": [
+    "Blue",
+    "Purple",
+    "Cyan",
+    "White",
+    "Black",
+    "Yellow",
+    "Orange",
+    "Green"
+  ],
+  "Toon_Link": [
+    "Green",
+    "Red",
+    "Blue",
+    "Purple",
+    "Brown",
+    "Black",
+    "Grey",
+    "Teal"
+  ],
+  "Villager": [
+    "Red",
+    "Pink",
+    "Yellow",
+    "Green",
+    "Cyan",
+    "Blue",
+    "Purple",
+    "Chartreuse"
+  ],
+  "Wario": [
+    "Blue",
+    "Classic",
+    "Red",
+    "Classic_Red",
+    "Yellow",
+    "Classic_Cyan",
+    "Green",
+    "Classic_Green"
+  ],
+  "Wii_Fit_Trainer": [
+    "Female",
+    "Male",
+    "Green",
+    "Male_Green",
+    "Red",
+    "Male_Red",
+    "Yellow",
+    "Male_Yellow"
+  ],
+  "Wolf": [
+    "Purple",
+    "Brown",
+    "Red",
+    "Blue",
+    "Green",
+    "Orange",
+    "Black",
+    "Pink"
+  ],
+  "Yoshi": [
+    "Green",
+    "Red",
+    "Blue",
+    "Yellow",
+    "Pink",
+    "Cyan",
+    "Purple",
+    "Crafted"
+  ],
+  "Young_Link": [
+    "Green",
+    "Red",
+    "Blue",
+    "White",
+    "Pink",
+    "Cyan",
+    "Orange",
+    "Black"
+  ],
+  "Zelda": [
+    "Pink",
+    "Red",
+    "Blue",
+    "Violet",
+    "Green",
+    "Black",
+    "Purple",
+    "White"
+  ],
+  "Zero_Suit_Samus": [
+    "Cyan",
+    "Blue",
+    "Red",
+    "Black",
+    "Green",
+    "White",
+    "Shorts_Orange",
+    "Shorts_Blue"
+  ]
+}
