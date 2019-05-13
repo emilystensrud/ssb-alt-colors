@@ -1,0 +1,177 @@
+{
+  "Bowser": [
+    "Red",
+    "Green",
+    "Blue",
+    "Black"
+  ],
+  "Captain_Falcon": [
+    "Indigo",
+    "Black",
+    "Red",
+    "White",
+    "Green",
+    "Blue"
+  ],
+  "Donkey_Kong": [
+    "Brown",
+    "Black",
+    "Red",
+    "Blue",
+    "Green"
+  ],
+  "Dr_Mario": [
+    "White",
+    "Red",
+    "Blue",
+    "Green",
+    "Black"
+  ],
+  "Falco": [
+    "Tan",
+    "Red",
+    "Blue",
+    "Green"
+  ],
+  "Fox": [
+    "White",
+    "Red",
+    "Blue",
+    "Green"
+  ],
+  "Ganondorf": [
+    "Brown",
+    "Red",
+    "Blue",
+    "Green",
+    "Purple"
+  ],
+  "Ice_Climbers": [
+    "Blue",
+    "Green",
+    "Orange",
+    "Red"
+  ],
+  "Jigglypuff": [
+    "Pink",
+    "Red",
+    "Blue",
+    "Green",
+    "Yellow"
+  ],
+  "Kirby": [
+    "Pink",
+    "Yellow",
+    "Blue",
+    "Red",
+    "Green",
+    "White"
+  ],
+  "Link": [
+    "Green",
+    "Red",
+    "Blue",
+    "Black",
+    "White"
+  ],
+  "Luigi": [
+    "Green",
+    "Red",
+    "Blue",
+    "Pink"
+  ],
+  "Mario": [
+    "Red",
+    "Yellow",
+    "Black",
+    "Blue",
+    "Green"
+  ],
+  "Marth": [
+    "Blue",
+    "Red",
+    "Green",
+    "Black",
+    "White"
+  ],
+  "Mewtwo": [
+    "Purple",
+    "Red",
+    "Blue",
+    "Green"
+  ],
+  "Mr_Game_And_Watch": [
+    "Black",
+    "Red",
+    "Blue",
+    "Green"
+  ],
+  "Ness": [
+    "Red",
+    "Yellow",
+    "Blue",
+    "Green"
+  ],
+  "Peach": [
+    "Pink",
+    "Yellow",
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "Pichu": [
+    "Yellow",
+    "Red",
+    "Blue",
+    "Green"
+  ],
+  "Pikachu": [
+    "Yellow",
+    "Red",
+    "Blue",
+    "Green"
+  ],
+  "Roy": [
+    "Purple",
+    "Red",
+    "Blue",
+    "Green",
+    "Yellow"
+  ],
+  "Samus": [
+    "Orange",
+    "Pink",
+    "Black",
+    "Green",
+    "Purple"
+  ],
+  "Sheik": [
+    "Navy",
+    "Red",
+    "Blue",
+    "Green",
+    "White"
+  ],
+  "Yoshi": [
+    "Green",
+    "Red",
+    "Blue",
+    "Yellow",
+    "Pink",
+    "Cyan"
+  ],
+  "Young_Link": [
+    "Green",
+    "Red",
+    "Blue",
+    "White",
+    "Black"
+  ],
+  "Zelda": [
+    "Pink",
+    "Red",
+    "Blue",
+    "Green",
+    "White"
+  ]
+}
